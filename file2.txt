@@ -1,3 +1,6 @@
 devops
 aws
 azure
+linux
+windows
+mac
